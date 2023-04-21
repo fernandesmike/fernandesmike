@@ -2,8 +2,6 @@
 <h1 align="center">Hey 👋, I'm Mike Andrew Fernandez</h1>
 <h3 align="center">Aspiring UI | UX Designer and a progressive web developer from Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandesmike" alt="fernandesmike" /></a> </p>
-
 - 🌱 I’m currently learning **React JS, Java, C#, APIs, Functional programming**
 
 - 👨‍💻 You may see my design portfolio at [dribbble.com/mikeandrew_30](dribbble.com/mikeandrew_30)
