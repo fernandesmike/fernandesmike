@@ -1,3 +1,4 @@
+[![MasterHead](https://www.getsmarter.com/blog/wp-content/uploads/2017/12/UX-Designer-Banner-Desktop.png)]
 <h1 align="center">Hey 👋, I'm Mike Andrew Fernandez</h1>
 <h3 align="center">Aspiring UI | UX Designer and a progressive web developer from Philippines 🇵🇭</h3>
 
