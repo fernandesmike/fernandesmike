@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.getsmarter.com/blog/wp-content/uploads/2017/12/UX-Designer-Banner-Desktop.png))](https://rishavchanda.iohttps://www.getsmarter.com/blog/wp-content/uploads/2017/12/UX-Designer-Banner-Desktop.png)
+[![MasterHead](https://rishavchanda.iohttps://www.getsmarter.com/blog/wp-content/uploads/2017/12/UX-Designer-Banner-Desktop.png)](https://rishavchanda.iohttps://www.getsmarter.com/blog/wp-content/uploads/2017/12/UX-Designer-Banner-Desktop.png)
 <h1 align="center">Hey 👋, I'm Mike Andrew Fernandez</h1>
 <h3 align="center">Aspiring UI | UX Designer and a progressive web developer from Philippines</h3>
 - 🌱 I’m currently learning **React JS, Java, C#, APIs, Functional programming**
