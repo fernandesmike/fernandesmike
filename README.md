@@ -1,6 +1,9 @@
 <img src="https://camo.githubusercontent.com/336143618b69a35de5866b36e011907d8fd5a8f9753dc0bdbe3fa87cbc9a4125/68747470733a2f2f7777772e676574736d61727465722e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f31322f55582d44657369676e65722d42616e6e65722d4465736b746f702e706e67">
 <h1 align="center">Hey 👋, I'm Mike Andrew Fernandez</h1>
 <h3 align="center">Aspiring UI | UX Designer and a progressive web developer from Philippines</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandesmike" alt="fernandesmike" /></a> </p>
+
 - 🌱 I’m currently learning **React JS, Java, C#, APIs, Functional programming**
 
 - 👨‍💻 You may see my design portfolio at [dribbble.com/mikeandrew_30](dribbble.com/mikeandrew_30)
