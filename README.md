@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React JS, Java, C#, APIs, Functional programming**
 
-- 👨‍💻 You may see my design portfolio at [dribbble.com/mikeandrew_30](Dribbble)
+- 👨‍💻 You may see my design portfolio at dribbble.com/mikeandrew_30
 
 - 💬 Ask me about **Java, Javascript**
 
